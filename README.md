@@ -153,7 +153,7 @@ Claude · ChatGPT · Gemini · Cursor · Antigravity · Other
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/peat-ai.git
+git clone https://github.com/SHUBHAMSHARMA06022008/peat-ai.git
 cd peat-ai
 ```
 
@@ -344,6 +344,6 @@ MIT © Shubham Sharma
 
 Built for developers who use AI to build.
 
-**[Try PEAT →](http://localhost:3000)**
+**[GitHub Repo →](https://github.com/SHUBHAMSHARMA06022008/peat-ai)**
 
 </div>
